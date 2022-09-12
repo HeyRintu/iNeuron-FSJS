@@ -7,11 +7,10 @@
 - ## From project-7 to project-15 are responsive. 
 - ## From project-16 to project-18 are created on pure Tailwind CSS.
 
-<span style="background-color:yellow ;font-size:18px;color:black"><u>***Click the github badge to visit the Github Repo.Click the Live Server Badge to visit the Site.***</u></span>
 
+## 🔴*Click the **github badge** to visit the **Github Repo**. Click the **Live Server Badge** to visit the Site.*
 
 ## **Project - 1 :** *Street Style Landing page.*
----
 [![Github][github-shield]][github-url] 
 
 [![live-server][live-server-shield]][live-server-url]
@@ -25,7 +24,6 @@
 <br>
 
 ## **Project - 2 :** *Food Restaurant Home Page.*
----
 [![Github][github-shield]][github-url] 
 
 [![live-server][live-server-shield]][live-server-url]
@@ -40,7 +38,6 @@
 <br>
 
 ## **Project - 3 :** *Low Home Page.*
----
 [![Github][github-shield]][github-url] 
 
 [![live-server][live-server-shield]][live-server-url]
@@ -55,7 +52,6 @@
 <br>
 
 ## **Project - 4 :** *Digital Marketing Homepage*
----
 [![Github][github-shield]][github-url] 
 
 [![live-server][live-server-shield]][live-server-url]
@@ -69,7 +65,6 @@
 <br>
 
 ## **Project - 5 :** *Crypto Landing page.*
----
 [![Github][github-shield]][github-url] 
 
 [![live-server][live-server-shield]][live-server-url]
@@ -84,7 +79,6 @@
 <br>
 
 ## **Project - 6 :** *Plant Home Page.*
----
 [![Github][github-shield]][github-url] 
 
 [![live-server][live-server-shield]][live-server-url]
@@ -99,7 +93,6 @@
 <br>
 
 ## **Project - 7 :** *Product Home Page.*
----
 [![Github][github-shield]][github-url] 
 
 [![live-server][live-server-shield]][live-server-url]
@@ -114,7 +107,6 @@
 <br>
 
 ## **Project - 8 :** *Web design Home Page.*
----
 [![Github][github-shield]][github-url] 
 
 [![live-server][live-server-shield]][live-server-url]
@@ -128,7 +120,6 @@
 <br>
 
 ## **Project - 9 :** *Developer Home Page.*
----
 [![Github][github-shield]][github-url] 
 
 [![live-server][live-server-shield]][live-server-url]
@@ -142,7 +133,6 @@
 <br>
 
 ## **Project - 10 :** *Interior Design landing page.*
----
 [![Github][github-shield]][github-url] 
 
 [![live-server][live-server-shield]][live-server-url]
@@ -157,7 +147,6 @@
 <br>
 
 ## **Project - 11 :** *Hosting Landing Page.*
----
 [![Github][github-shield]][github-url] 
 
 [![live-server][live-server-shield]][live-server-url]
@@ -171,7 +160,6 @@
 <br>
 
 ## **Project - 12 :** *Business Landing Page.*
----
 [![Github][github-shield]][github-url] 
 
 [![live-server][live-server-shield]][live-server-url]
@@ -186,7 +174,6 @@
 <br>
 
 ## **Project - 13 :** *SAAS Landing Page.*
----
 [![Github][github-shield]][github-url] 
 
 [![live-server][live-server-shield]][live-server-url]
@@ -200,7 +187,6 @@
 <br>
 
 ## **Project - 14 :** *Dance Landing Page.*
----
 [![Github][github-shield]][github-url] 
 
 [![live-server][live-server-shield]][live-server-url]
@@ -212,7 +198,6 @@
 [live-server-url]:https://profound-babka-7d48d2.netlify.app/
 
 ## **Project - 15 :** *Product design Landing Page.*
----
 [![Github][github-shield]][github-url] 
 
 [![live-server][live-server-shield]][live-server-url]
