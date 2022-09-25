@@ -2,7 +2,7 @@
 <br>
 # **[iNeuron](https://ineuron.ai/)** : *[Full Stack Javascript Web Developer Bootcamp  (alpha) Projects links 👉](https://ineuron.ai/course/Full-Stack-Javascript-Web-Developer?campaign=affiliate&coupon_code=XMFTZLKB)*
 
-- ## All projects are created on pure HTML and CSS. 
+## - All projects are created on pure HTML and CSS. 
 - ## From project-1 to project-6 are non-responsive.
 - ## From project-7 to project-15 are responsive. 
 - ## From project-16 to project-18 are created on pure Tailwind CSS.
@@ -140,8 +140,8 @@
 [github-shield]:https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 [live-server-shield]:https://img.shields.io/badge/Live_Server-B4161B?style=for-the-badge&logo=Netlify&logoColor=white
 
-[github-url]:https://github.com/HeyRintu/Project-1-
-[live-server-url]:https://visionary-pastelito-3e80f9.netlify.app/
+[github-url]:https://github.com/HeyRintu/project-10
+[live-server-url]:https://heyrintu-project10.netlify.app/
 
 
 <br>
@@ -207,7 +207,6 @@
 
 [github-url]:https://github.com/HeyRintu/Project-15
 [live-server-url]:https://heyrintu-project15.netlify.app/
-
 
 
 
