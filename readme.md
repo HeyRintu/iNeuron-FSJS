@@ -154,8 +154,8 @@
 [github-shield]:https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 [live-server-shield]:https://img.shields.io/badge/Live_Server-B4161B?style=for-the-badge&logo=Netlify&logoColor=white
 
-[github-url11]:https://github.com/HeyRintu/Project-13
-[live-server-url11]:https://mellow-arithmetic-217ea5.netlify.app/
+[github-url11]:https://github.com/HeyRintu/project-11
+[live-server-url11]:https://fastidious-raindrop-eded17.netlify.app/
 
 <br>
 
@@ -168,7 +168,7 @@
 [live-server-shield]:https://img.shields.io/badge/Live_Server-B4161B?style=for-the-badge&logo=Netlify&logoColor=white
 
 [github-url12]:https://github.com/HeyRintu/Project-12
-[live-server-url12]:https://visionary-pastelito-3e80f9.netlify.app/
+[live-server-url12]:https://sage-frangipane-fd5ae3.netlify.app/
 
 
 <br>
