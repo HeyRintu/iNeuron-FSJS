@@ -208,8 +208,41 @@
 [github-url15]:https://github.com/HeyRintu/Project-15
 [live-server-url15]:https://heyrintu-project15.netlify.app/
 
+# ***Tailwind Project -->***
 
 
+## **Project - 16 :** *Rode clone*
+[![Github][github-shield]][github-url16] 
+
+[![live-server][live-server-shield]][live-server-url16]
+
+[github-shield]:https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+[live-server-shield]:https://img.shields.io/badge/Live_Server-B4161B?style=for-the-badge&logo=Netlify&logoColor=white
+
+[github-url16]:https://github.com/HeyRintu/Rode-Clone
+[live-server-url16]:https://thunderous-hummingbird-634b14.netlify.app/
 
 
+## **Project - 17 :** *Paytm clone*
+[![Github][github-shield]][github-url17] 
+
+[![live-server][live-server-shield]][live-server-url17]
+
+[github-shield]:https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+[live-server-shield]:https://img.shields.io/badge/Live_Server-B4161B?style=for-the-badge&logo=Netlify&logoColor=white
+
+[github-url17]:https://github.com/HeyRintu/paytm-clone
+[live-server-url17]:https://enchanting-nasturtium-f34395.netlify.app/
+
+
+## **Project - 18 :** *Shopify clone*
+[![Github][github-shield]][github-url18] 
+
+[![live-server][live-server-shield]][live-server-url18]
+
+[github-shield]:https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+[live-server-shield]:https://img.shields.io/badge/Live_Server-B4161B?style=for-the-badge&logo=Netlify&logoColor=white
+
+[github-url18]:https://github.com/HeyRintu/Shopify-clone
+[live-server-url18]:https://regal-ganache-6fd30d.netlify.app/
 
